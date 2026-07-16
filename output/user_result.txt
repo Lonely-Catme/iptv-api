@@ -1,14 +1,14 @@
 🕘️更新时间,#genre#
-2026-07-16 06:46:21,http://121.57.88.206:898/hls/3/index.m3u8
+2026-07-17 06:46:34,http://118.193.115.2:9901/tsfile/live/0002_1.m3u8?key=txiptv
 
 📺央视频道,#genre#
+CCTV-2,http://118.193.115.2:9901/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV-3,http://121.57.88.206:898/hls/3/index.m3u8
-CCTV-5+,http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://183.129.255.66:8480/hls/6/index.m3u8
-CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
+CCTV-5+,http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://69.30.245.50/live/cctv6.m3u8
+CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-11,http://120.202.94.181:9446/tsfile/live/0011_1.m3u8?key=txiptv
 CCTV-12,http://222.223.41.27:8888/hls/12/index.m3u8
 
 📡卫视频道,#genre#
