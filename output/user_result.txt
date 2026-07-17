@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-07-17 06:46:34,http://118.193.115.2:9901/tsfile/live/0002_1.m3u8?key=txiptv
+2026-07-18 06:37:27,http://121.57.88.206:898/hls/3/index.m3u8
 
 📺央视频道,#genre#
-CCTV-2,http://118.193.115.2:9901/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV-3,http://121.57.88.206:898/hls/3/index.m3u8
 CCTV-5+,http://183.129.255.66:8480/hls/6/index.m3u8
 CCTV-5+,http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -18,5 +17,3 @@ CCTV-12,http://222.223.41.27:8888/hls/12/index.m3u8
 三沙卫视,http://221.226.51.220:50081/newlive/live/hls/38/live.m3u8
 
 🌊港·澳·台,#genre#
-
-🏀体育频道,#genre#
